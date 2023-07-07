@@ -60,6 +60,7 @@ ul li {
   position: relative;
   max-height: 280px;
   overflow-y: hidden;
+  display: inline-block;
 }
 
 ul li img {
